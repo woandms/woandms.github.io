@@ -7,12 +7,7 @@
 <meta name = "viewport" content = "initial-scale = 2.3, user-scalable = no">
 <title>Jschedule</title>
 <link rel="apple-touch-icon-precomposed" href="icon.png"/>
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <h1>PDF Example</h1>
+    <H1>Welcome to Jschedule the Schedule should be down Below if the schedule is in the wrong page swipe down to see other days</H1>
     <p><a href="/132.pdf">Test</a>.</p>
   </body>
 </html>
