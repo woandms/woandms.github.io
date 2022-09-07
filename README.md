@@ -5,11 +5,6 @@
 <meta name = "viewport" content = "width = device-width">
 <meta name = "viewport" content = "initial-scale = 1.0">
 <meta name = "viewport" content = "initial-scale = 2.3, user-scalable = no">
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#jclock').jclock();
-    });
-</script>
 <title>Jschedule</title>
 <link rel="apple-touch-icon-precomposed" href="icon.png"/>
 <html>
@@ -21,4 +16,4 @@
     <p><a href="/132.pdf">Test</a>.</p>
   </body>
 </html>
-#by:waisemthecrab
+
